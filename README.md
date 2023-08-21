@@ -22,3 +22,8 @@ npm i
 
 npm run serve
 ```
+login
+```
+email : abderrahman@gmail.com
+pwd : abderrahman
+```
