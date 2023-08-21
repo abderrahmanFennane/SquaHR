@@ -1,20 +1,23 @@
 # SquaHR
-database name : challenge /n
+database name : challenge --- 
 import database challenge.sql /n 
 
 ```
-#to laravel file
-cd api*
+#to Laravel file
+cd API*
 
 update composer
+
+#start server
+php artisan serve
 ```
-open another ongle in the terminal
+open another angle in the terminal
 
 ```
-#to resources/js it dependes on your current location
+#to resources/js it depends on your current location
 cd ../resources/js
 
-#node modules and dependies
+#node modules and dependencies
 npm i
 
 npm run serve
